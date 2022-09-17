@@ -1,6 +1,4 @@
-- Hi, I’m @Stichka
-- I’m currently learning C#
-- Currently a Total noob
+
 
 
 <!---
